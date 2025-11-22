@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.com",
+      "name": "Администратор"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Изучить Redux Toolkit",
+      "description": "Пройти официальную документацию и сделать тестовый проект",
+      "completed": true,
+      "createdAt": "2025-10-01T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Сделать практическую работу",
+      "description": "Реализовать SPA на React + TypeScript",
+      "completed": false,
+      "createdAt": "2025-10-02T12:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Купить продукты",
+      "description": "Молоко, хлеб, яйца, сыр",
+      "completed": false,
+      "createdAt": "2025-10-03T18:15:00.000Z"
+    }
+  ]
+}
